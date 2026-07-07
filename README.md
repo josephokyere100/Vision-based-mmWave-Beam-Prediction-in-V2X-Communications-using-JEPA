@@ -2,6 +2,10 @@
 
 A JEPA-based self-supervised foundational model pretrained on unlabeled vehicular camera images for mmWave beam prediction in V2X systems. A single frozen encoder serves multiple downstream tasks including beam prediction, LOS/NLOS detection, and day/night classification without retraining.
 
+## Project Report
+
+The full project report detailing the methodology, experiments, and results is available here: [ENEL_619_07___Final_Project_Report.pdf](ENEL_619_07___Final_Project_Report.pdf)
+
 ## Requirements
 
 - Python 3.10
