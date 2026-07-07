@@ -1,0 +1,2 @@
+# Vision-based-mmWave-Beam-Prediction-in-V2X-Communications-using-JEPA
+A JEPA-based self-supervised foundational model pretrained on unlabeled vehicular camera images from the DeepSense 6G dataset for mmWave beam prediction in V2X systems. The pretrained encoder is evaluated on beam prediction, LOS/NLOS, and day/night classification without retraining, demonstrating scalable multi-task communication intelligence.
